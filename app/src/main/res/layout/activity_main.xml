@@ -53,7 +53,9 @@
         android:layout_marginTop="300dp"
         android:layout_marginLeft="80dp"
         android:src="@drawable/shazam_logo"
-        android:scaleType="fitCenter"/>
+        android:scaleType="fitCenter"
+        android:onClick="goNext"
+        />
 
     <ImageView
         android:layout_width="60dp"
